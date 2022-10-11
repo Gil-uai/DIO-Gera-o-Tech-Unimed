@@ -6,7 +6,7 @@
 
 Descrição / Description :
 
-O pacote IMAGE-PROCESSING-PACK é utilizado para: 
+O pacote IMAGE_PROCESSING_PACK é utilizado para: 
 
 - **Módulo processing:**
   - Correspondencia de histograma
@@ -31,6 +31,16 @@ pip install IMAGE_PROCESSING_PACK
 
 ## Author
 "Gilcimar Gomes"
+
+
+
+# Local utilizado para armazenagem
+
+https://pypi.org/project/IMAGE-PROCESSING-PACK/
+
+![](C:\workspace\DIO-Gera-o-Tech-Unimed\CAP_02-Python\02_Projetos\Pacotes\IMAGE_PROCESSING_PACK\Pypi.png)
+
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
