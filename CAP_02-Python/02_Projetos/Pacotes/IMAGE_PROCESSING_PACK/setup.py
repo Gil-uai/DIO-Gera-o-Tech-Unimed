@@ -12,7 +12,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="IMAGE_PROCESSING_PACK",
-    version="0.0.2",
+    version="0.0.4",
     author="Gilcimar Gomes",
     author_email="aguiar.gilcimar@gmail.com",
     description="Version for test, processing to image - Project development by Karina Kato - teacher for DIO",
