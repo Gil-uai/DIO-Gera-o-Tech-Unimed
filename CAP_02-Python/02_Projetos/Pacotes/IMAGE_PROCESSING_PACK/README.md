@@ -38,7 +38,7 @@ pip install IMAGE_PROCESSING_PACK
 
 https://pypi.org/project/IMAGE-PROCESSING-PACK/
 
-![](C:\workspace\DIO-Gera-o-Tech-Unimed\CAP_02-Python\02_Projetos\Pacotes\IMAGE_PROCESSING_PACK\Pypi.png)
+![](https://github.com/Gil-uai/DIO-Gera-o-Tech-Unimed/blob/main/CAP_02-Python/02_Projetos/Pacotes/IMAGE_PROCESSING_PACK/Pypi.png)
 
 
 
