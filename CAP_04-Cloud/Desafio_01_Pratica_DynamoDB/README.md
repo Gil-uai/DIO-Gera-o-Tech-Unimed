@@ -32,7 +32,7 @@ aws dynamodb create-table \
 
 Tabelas
 
-![https://github.com/Gil-uai/DIO-Gera-o-Tech-Unimed/blob/main/CAP_04-Cloud/Desafio_01_Pratica_DynamoDB/Entradas.png]()
+![https://github.com/Gil-uai/DIO-Gera-o-Tech-Unimed/blob/main/CAP_04-Cloud/Desafio_01_Pratica_DynamoDB/Entradas.png](C:\workspace\DIO-Gera-o-Tech-Unimed\CAP_04-Cloud\Desafio_01_Pratica_DynamoDB\Entradas.png)
 
 
 
@@ -134,3 +134,5 @@ aws dynamodb query \
     --key-condition-expression "SongTitle = :v_song and SongYear = :v_year" \
     --expression-attribute-values  '{":v_song":{"S":"Wasting Love"},":v_year":{"S":"1992"} }'
 ```
+
+!
