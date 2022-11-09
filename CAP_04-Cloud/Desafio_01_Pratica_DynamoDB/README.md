@@ -32,7 +32,9 @@ aws dynamodb create-table \
 
 Tabelas
 
-![]()
+![https://github.com/Gil-uai/DIO-Gera-o-Tech-Unimed/blob/main/CAP_04-Cloud/Desafio_01_Pratica_DynamoDB/Entradas.png]()
+
+
 
 - Inserir um item
 
